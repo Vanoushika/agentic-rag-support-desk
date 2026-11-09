@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langgraph
+faiss-cpu
+pydantic
+python-dotenv
+pytest
+httpx
+numpy
